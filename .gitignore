@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.cache/
+dist
+_site
+.next
+build
+out
+package
+*.tgz

@@ -1,0 +1,21 @@
+.ck-box {
+  @apply flex flex-col rounded shadow bg-white;
+
+  &.ck-box--card {
+    @apply shadow-md;
+  }
+
+  &.ck-box--frame {
+    @apply shadow-xs;
+  }
+
+  &.ck-box--tinted-frame {
+    @apply shadow-inset;
+    background: rgba(theme("colors.gray.400"), 0.05);
+  }
+
+  &.ck-box--well {
+    @apply shadow-inner;
+    background: rgba(theme("colors.gray.400"), 0.05);
+  }
+}

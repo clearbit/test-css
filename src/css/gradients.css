@@ -1,0 +1,85 @@
+@layer gradients {
+  .gradient-blue {
+    @apply from-blue-300 to-blue-500;
+  }
+
+  .gradient-navy {
+    @apply from-navy-400 to-navy-500;
+  }
+
+  .gradient-aqua {
+    @apply from-aqua-300 to-aqua-500;
+  }
+
+  .gradient-indigo {
+    @apply from-indigo-300 to-indigo-500;
+  }
+
+  .gradient-purple {
+    @apply from-purple-300 to-purple-500;
+  }
+
+  .gradient-yellow {
+    @apply from-yellow-300 to-yellow-500;
+  }
+
+  .gradient-red {
+    @apply from-red-300 to-red-500;
+  }
+
+  .gradient-green {
+    @apply from-green-300 to-green-500;
+  }
+
+  .gradient-gray {
+    @apply from-gray-400 to-gray-500;
+  }
+
+  .gradient-azure {
+    @apply from-blue-300 to-blue-500;
+  }
+
+  .gradient-orchid {
+    @apply from-indigo-400 to-purple-400;
+  }
+
+  .gradient-malibu {
+    @apply from-purple-300 to-red-300;
+  }
+
+  .gradient-tropic {
+    @apply from-blue-200 to-green-300;
+  }
+
+  .gradient-midnight {
+    @apply from-navy-500 to-navy-300;
+  }
+
+  .gradient-black {
+    @apply from-gray-600 to-gray-900;
+  }
+
+  .gradient-sky {
+    @apply from-aqua-500 to-aqua-300;
+  }
+
+  .gradient-silver {
+    @apply from-gray-200 to-gray-400;
+  }
+
+  .gradient-ice {
+    @apply from-gray-0 to-gray-200;
+  }
+
+  .gradient-x {
+    @apply from-purple-500 to-indigo-500;
+  }
+
+  .gradient-royale {
+    @apply from-facebook to-indigo-400;
+  }
+
+  .gradient-metal {
+    @apply from-gray-400 to-gray-600;
+  }
+}

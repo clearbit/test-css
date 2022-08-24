@@ -1,0 +1,13 @@
+@import "tailwind.css";
+
+@import "./gradients";
+@import "./mixins/_ck-mixins.css";
+
+html,
+body,
+input,
+button {
+  @apply font-sans;
+}
+
+@tailwind utilities;
